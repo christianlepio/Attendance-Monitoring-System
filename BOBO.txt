@@ -1,0 +1,10 @@
+Stud_ID,L_name,F_name,M_ini,Gender,Course,Year,Section
+12348765/TADENA/johnmark/B/Male/BSCS/2/B
+18447123/EBRADA/lanz frealyn/E/Female/BSCS/2/B
+12345678/LINAN/lovel iverson/I/Male/BSIT/2/B
+87654321/FUENTES/charl/A/Female/BSCS/2/D
+09909889/ABILONG/marvin/K/Male/BSCS/3/A
+56654334/HERNANDEZ/kenneth/H/Female/BSIT/3/D
+18171625/BEDICO/maidy/M/Female/BSIT/3/G
+43211234/BENIOSA/swettzel/O/Female/BSIT/2/F
+18123447/LEPIO/ryan christian/P/Male/BSCS/2/B
